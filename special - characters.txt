@@ -1,0 +1,16 @@
+key     Name               Key Location
+!       Exclamation Mark     Shift + 1 
+#       Pound/Hashtag        Shift +3
+%       Percent              Shift +5
+&       Amperand             Shift + 7
+*       Asterisk             Shift + 8
+(       Open Paranthesis     Shift + 9
+)       Close Paranthesis    Shift + 0
+-       Hyphen/Dash          To the right of 0 
+_       Underscore           Shift + -
+[       Open (square) Brackets to the right of P   
+]        Close (square) Paranthesis  to the right of open square Brackets
+\       Backslash            to the right of close (square) Brackets
+{
+}
+;

@@ -1,0 +1,13 @@
+Key commands             Description
+Ctrl + A                 Select All
+Ctrl + X                 Cut
+Ctrl + C                 Copy
+Ctrl + V                 Paste
+Ctrl + Y                 Redo 
+Ctrl + Z                 Undo
+Ctrl + F                 Find
+Ctrl + H                 Replace
+Ctrl + S                 Save file
+Ctrl + N                 New file
+Ctrl + O                 Open file
+Ctrl + W                 Close file
